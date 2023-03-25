@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "u1",
+      "email": "u1@user.com",
+      "password": "123"
+    },
+    {
+      "name": "u2",
+      "email": "u2@user.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "p1",
+      "image": "/src/assets/images/laptop-bg.jpg",
+      "price": 100,
+      "details": "this is the details ..."
+    },
+    {
+      "name": "p2",
+      "price": 100,
+      "details": "p2 details",
+      "image": "/src/assets/images/laptop-bg.jpg",
+      "id": 2
+    },
+    {
+      "name": "p2",
+      "price": 500,
+      "details": "222",
+      "image": "/src/assets/images/laptop-bg.jpg",
+      "id": 3
+    }
+  ]
+}
